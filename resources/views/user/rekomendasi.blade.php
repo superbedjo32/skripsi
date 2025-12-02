@@ -72,7 +72,7 @@
                             </div>
 
                             <div class="flex items-center mb-4">
-                                <span class="text-yellow-500 text-sm">{{ $bintang }} Stars</span>
+                                <span class="text-yellow-500 text-sm">{{ $bintang }} ⭐</span>
                             </div>
 
                             <button @click="open = true"
@@ -112,7 +112,7 @@
                                     <p class="text-gray-700 mb-3"><strong>Alamat:</strong> {{ $alamat }}</p>
                                     <p class="text-gray-700 mb-3"><strong>Harga:</strong> Rp {{ number_format($min) }} - Rp
                                         {{ number_format($max) }}/malam</p>
-                                    <p class="text-gray-700 mb-6"><strong>Rating:</strong> {{ $bintang }} Stars</p>
+                                    <p class="text-gray-700 mb-6"><strong>Rating:</strong> {{ $bintang }} ⭐</p>
 
                                     <p class="text-gray-600 leading-relaxed mb-6">{{ $deskripsi }}</p>
 
