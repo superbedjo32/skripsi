@@ -80,11 +80,6 @@
                             </a>
                         </div>
 
-                        <!-- Footer kecil -->
-                        <div class="text-center mt-4">
-                            <small class="text-gray-600">© {{ date('Y') }} B-Area. All rights reserved.</small>
-                        </div>
-
                     </div>
                 </div>
             </div>

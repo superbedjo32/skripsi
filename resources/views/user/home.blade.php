@@ -24,7 +24,7 @@
             Rekomendasi Penginapan di Jantung Wisata Alam Batu
         </h2>
         <p class="text-lg md:text-xl mb-8">
-            Menginap Lebih Dekat dengan Alam, Lebih Dekat dengan Batu
+            Nama saya Firmansyah Alafair Hermawan NIM 2118108, web ini saya gunakan untuk syarat kelulusan ujian akhir saya.
         </p>
         <a href="{{ route('user.penginapan') }}" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-3 rounded-full transition duration-300">
             Jelajahi
